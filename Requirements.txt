@@ -1,0 +1,6 @@
+
+library versions in data cleaning capstone project
+
+pandas version - 1.4.4
+numpy version - 1.23.5
+re version - 2.2.1
